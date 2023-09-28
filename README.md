@@ -19,4 +19,6 @@
 5)  http://pribor.ifmo.ru/ru/article/19585/razrabotka_energoeffektivnyh_galopiruyuschih_robotov_so_zvenyami_peremennoy_dliny.htm
 6)  http://robotrends.ru/robopedia/hodyashie-roboty
 7)  https://www.inno-exp.ru/archive/17/innov_2016-2_128-137.pdf
-8)  
+8)  https://keldysh.ru/papers/2013/prep2013_101.pdf
+9)  https://elib.spbstu.ru/dl/325.pdf/download/325.pdf
+10)  
